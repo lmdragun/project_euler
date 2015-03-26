@@ -1,0 +1,3 @@
+My initial attempts at Project Euler projects.
+
+I am not a math person.
